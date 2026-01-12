@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/piercescott/Desktop/week3-try-it-out/build",
+  "command": "/usr/bin/clang++  -I/Users/piercescott/Desktop/week3-try-it-out/inc -g -std=c++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.6 -o CMakeFiles/main.dir/src/main.cpp.o -c /Users/piercescott/Desktop/week3-try-it-out/src/main.cpp",
+  "file": "/Users/piercescott/Desktop/week3-try-it-out/src/main.cpp",
+  "output": "CMakeFiles/main.dir/src/main.cpp.o"
+}
+]
